@@ -49,3 +49,5 @@ gradlew.bat bootRun -DDB_USERNAME=tqi -DDB_PASSWORD=tqi
 Aplicação é executada no endereço http://localhost:8080
 
 Fazer o download da coleção abaixo de descompactar, importar no Postman para fazer testes dos endpoints da API:
+
+[analise-credito-endpoints.postman_collection.json.zip](https://github.com/samreis/tqi_evolution_backend_2021/files/7832411/analise-credito-endpoints.postman_collection.json.zip)
